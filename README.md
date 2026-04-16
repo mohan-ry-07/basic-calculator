@@ -99,16 +99,3 @@ Error
 * Replace `eval()` with a safer expression parser
 
 ---
-
-## 📌 Notes
-
-* This project is for learning purposes.
-* The current version uses `eval()` for simplicity. In production applications, a safer parsing method is recommended.
-
----
-
-## 👨‍💻 Author
-
-Created as a simple web development project using HTML, CSS, and JavaScript.
-
----
