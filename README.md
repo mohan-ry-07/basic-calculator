@@ -3,6 +3,10 @@
 A clean and user-friendly web-based calculator built using **HTML, CSS, and JavaScript**. It supports both **button clicks** and **keyboard input**, and performs basic arithmetic operations following the correct order of operations (BODMAS/BIDMAS).
 
 ---
+## 🚀 Live Demo
+https://mohan-ry-07.github.io/basic-calculator/
+
+---
 
 ## 🚀 Features
 
